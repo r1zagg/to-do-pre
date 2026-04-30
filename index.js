@@ -89,4 +89,3 @@ formElement.addEventListener("submit", function (event) {
     inputElement.value = "";
   }
 });
-
